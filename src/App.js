@@ -15,7 +15,8 @@ import MER_Page_Two from './components/MER_Page_Two';
 import MER_Page_Three from './components/MER_Page_Three';
 import MER_def_Page from './components/MER_def_Page';
 import Choose_ETF from './components/Choose_ETF';
-import ETF_Selected from './components/ETF_Selected';
+import Frank_Last_Page from './components/Frank_Last_Page';
+import Check_List from './components/Check_List';
 
 class App extends Component {
   render(){
@@ -36,7 +37,8 @@ class App extends Component {
         <Route exact path='/mer_page_three' component={MER_Page_Three} />
         <Route exact path='/mer_def_page' component={MER_def_Page} />
         <Route exact path='/chooseetf' component={Choose_ETF} />
-        <Route exact path='/etfselected' component={ETF_Selected} />
+        <Route exact path='/frankbank' component={Frank_Last_Page} />
+        <Route exact path='/checklist' component={Check_List} />
         </Switch>
       </div>
     )

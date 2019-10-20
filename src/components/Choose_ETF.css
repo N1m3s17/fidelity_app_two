@@ -26,3 +26,8 @@
     line-height: 35px;
     text-align: center;
 }
+
+.choose_next_button {
+    margin-top: 5%;
+    float: right;
+}

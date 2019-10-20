@@ -1,0 +1,17 @@
+.check_list_header {
+    padding-top: 2%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.check_list_div {
+    margin-bottom: 10%;
+}
+
+.check_list_button {
+    margin-right: 3%;
+}

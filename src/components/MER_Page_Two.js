@@ -19,7 +19,7 @@ class MER_Page_Two extends Component {
           <div className="MER_pagetwo_button_span">
           <Button className="MER_pagetwo_button" outline color="info" size="lg">Energy</Button>{' '}
           <Button className="MER_pagetwo_button" outline color="info" size="lg">Emotional</Button>{' '}
-          <Button className="MER_pagetwo_button" outline tag={Link} to="/mer_page_three" color="info" size="lg">Expenses</Button>{' '}
+          <Button className="MER_pagetwo_button" outline tag={Link} to="/mer_page_three" color="info" size="lg">Expense</Button>{' '}
           <Button className="MER_pagetwo_button" outline color="info" size="lg">Engage</Button>{' '}
           </div>
         </div>
