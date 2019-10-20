@@ -1,0 +1,34 @@
+.pagetwo_body {
+    position: absolute;
+    padding-top: 50px;
+}
+
+.progress_bar_one {
+    width: 982px;
+    height: 15px;
+}
+
+.pagetwo_header {
+    padding-top: 2%;
+    font-family: Avenir;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.pagetwo_card_pic {
+    width: 361px;
+    height: 244px;
+}
+
+.pagetwo_button_span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}

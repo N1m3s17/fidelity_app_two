@@ -1,0 +1,19 @@
+.mer_def_page_header {
+    padding-top: 2%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.mer_def_pic{
+    width: 92%;
+}
+
+.merdef_button{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-right: 2%;
+}

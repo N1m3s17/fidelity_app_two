@@ -1,0 +1,19 @@
+.page_seven_header {
+    padding-top: 2%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.etf_def_pic_div{
+    width: 100%;
+}
+
+.pageseven_button{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-right: 2%;
+}

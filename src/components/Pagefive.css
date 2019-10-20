@@ -1,0 +1,17 @@
+.page_five_header {
+    padding-top: 2%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.pagefive_button_span{
+    padding-left: 30%;
+}
+
+.pagefive_button{
+    margin-right: 2%;
+}

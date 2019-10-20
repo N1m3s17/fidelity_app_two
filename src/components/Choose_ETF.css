@@ -1,0 +1,28 @@
+.etf_choice_header {
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.lil_piggy {
+    height: 133.54px;
+    width: 154.64px;
+
+}
+
+.etf_choice_span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.MER_pagethree_header {
+    padding-top: 2%;
+    font-family: Muli;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+}
+
+.MER_pagethree_button_span{
+    padding-top: 2%;
+    padding-left: 30%;
+}
+
+.MER_pagethree_button{
+    margin-right: 2%;
+}
